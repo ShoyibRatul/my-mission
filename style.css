@@ -1,12 +1,8 @@
 body{
-    margin: 0;
-    font-family: 'Playfair Display', serif;
-    background-color: rgb(253, 242, 230);
-    font-weight: 600;
-}
-
-section{
     margin: 0px 180px 0px 180px;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(250, 229, 244);
+    font-weight: 600;
 }
 
 h1{
@@ -107,3 +103,4 @@ footer{
     background-color: black;
     padding-top: 50px;
     padding-bottom: 50px;
+}
