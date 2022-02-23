@@ -1,0 +1,40 @@
+body{
+    margin: 60px 80px 0px 80px;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(253, 242, 230);
+    font-weight: 600;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.cyan-color{
+    color: rgb(124, 255, 211);
+}
+
+.half-width{
+    display: flex;
+    width: 100%;
+}
+
+.half-width img{
+    width: 100%;
+    margin-left: 20px;
+}
+
+#heading-1{
+    border-left: 4px solid rgb(233, 34, 190);
+    padding: 0 20px 0 20px;
+    
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(240, 117, 213), rgb(196, 64, 97));
+    padding: 3px 12px 3px 12px;
+    font-weight: 900;
+    color: rgb(253, 253, 253);
+    border-radius: 3px;
+}
+
